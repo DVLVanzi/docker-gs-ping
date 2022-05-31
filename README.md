@@ -1,5 +1,5 @@
 # docker-gs-ping
-TEST MODIFICA 3005 13:52
+TEST MODIFICA 3005 13:52 xyz
 
 A simple Go server/microservice example for [Docker's Go Language Guide](https://docs.docker.com/language/golang/).
 
